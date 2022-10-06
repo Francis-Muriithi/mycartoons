@@ -1,0 +1,133 @@
+{
+    "cartoons": [
+      {
+        "id": 1,
+        "name": "Akili and Me",
+        "image": "https://i.ytimg.com/vi/etDWOtlaQcU/maxresdefault.jpg ",
+        "video": " https://www.youtube.com/c/AkiliAndMe",
+        "description": "This is an African educational cartoon designed and adapted to local dialects, cultures and educational content. It is an amazing starter cartoon for all ages and provides relevant cultural, educational and even spiritual values to the children.",
+        "age": " All Ages"
+      },
+      {
+        "id": 2,
+        "name": " PJ Masks",
+        "image": " https://assets-us-01.kc-usercontent.com/500e0a65-283d-00ef-33b2-7f1f20488fe2/5256e699-5400-43c4-8eb0-8e6ab55e1f0c/MicrosoftTeams-image-(24).png",
+        "video": " https://www.youtube.com/c/PJMasks",
+        "description": " PJ Masks follows three young friends who transform into their dynamic super hero alter egos, Catboy, Owlette and Gekko, when they put their pyjamas on at night and activate their animal amulets. Together they embark on action packed adventures, solving mysteries along the way!",
+        "age": "All Ages"
+      },
+      {
+        "id": 3,
+        "name": "Tom and Jerry",
+        "image": "https://m.media-amazon.com/images/I/8134XeLmkRL._RI_.jpg",
+        "video": " https://www.youtube.com/watch?v=PlpL4tZejAQ&t=89s",
+        "description": " Tom and Jerry is an American cartoon series about a hapless cat's never-ending pursuit of a clever mouse. Tom is the scheming cat, and Jerry is the spunky mouse. The series was driven entirely by action and visual humour; the characters almost never spoke. ",
+        "age": " All Ages"
+      },
+      {
+        "id": 4,
+        "name": " Whisker Haven",
+        "image": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoph6Y2FGgPjJkppevLBTHbfaTG1xdvxTgiqohvWTQ1-HrCUmhQyJLp6UgJGnh_Fpv6-8&usqp=CAU",
+        "video": " https://www.youtube.com/watch?v=dPC2Ax8bpNA",
+        "description": "The Palace Pets travel to a magical world called Whisker Haven, run by a magical hummingbird fairy named Ms Featherbon.",
+        "age": " Above 2 Years"
+      },
+      {
+        "id": 5,
+        "name": " CocoMelon",
+        "image": " https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/08/31/17/independent-article-image-cocomelon.png?quality=75&width=982&height=726&auto=webp",
+        "video": "https://www.youtube.com/c/CoComelon",
+        "description": " The CoComelon TV series is very similar to the wildly popular animated music videos CoComelon publishes on YouTube. The music videos are appropriate for the very youngest of viewers, and touch on typical preschool themes",
+        "age": "0 - 6 Years"
+      },
+      {
+        "id": 6,
+        "name": " Sofia the First",
+        "image": "https://bestsimilar.com/img/movie/thumb/f1/4522.jpg",
+        "video": "https://www.youtube.com/watch?v=leuefV0nU0s&list=PLv042z7GzQ6tH0CLphGp8jkbNvG5VbzMb",
+        "description": "Sofia the First is an American animated fantasy children's television series. The show follows a young peasant girl named Sofia (Ariel Winter), who becomes a princess after her mother marries the king of Enchancia.",
+        "age": " 4- 10 Years"
+      },
+      {
+        "id": 7,
+        "name": " Kung Fu Panda",
+        "image": " https://m.media-amazon.com/images/M/MV5BMTUyNzgxNjg2M15BMl5BanBnXkFtZTgwMTY1NDI1NjE@._V1_.jpg",
+        "video": " https://www.youtube.com/c/captainunderpants",
+        "description": "Unexpectedly chosen to fulfill an ancient prophecy, Po's dreams become reality when he joins the world of Kung Fu and studies alongside his idols, the legendary Furious Five -- Tigress, Crane, Mantis, Viper and Monkey -- under the leadership of their guru, Master Shifu.",
+        "age": " 3 - 12 years"
+      },
+      {
+        "id": 8,
+        "name": "Ada Twist, Scientist",
+        "image": "https://m.media-amazon.com/images/M/MV5BZDUzYWE4MDMtZjJkMS00ZTc1LWJlMzMtZmZjOTdiMzhkNzllXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg",
+        "video": "https://www.youtube.com/watch?v=YO00bpUam7M&list=PLPphPHIzdSQOxuOJ_gDg5btu9RR1nQxWi",
+        "description": "Ada Twist, a young scientist who will explore helping people through scientific discovery, collaboration and friendship.",
+        "age": " 3-15 years"
+      },
+      {
+        "id": 9,
+        "name": " Masha and the Bear",
+        "image": " https://cdn.nickjrindia.com/wp-content/uploads/2019/07/15083344/1920-x-1440-Masha.jpg",
+        "video": "https://www.youtube.com/c/MashaBearEN",
+        "description": "A retired circus bear decides to live a quiet life in the forest. However, when Masha, a sprightly young girl, enters the forest, his peaceful life is interrupted. The show focuses on the adventures of a Masha and her caring friend, the bear (mishka) that always keeps her safe from disasters. ",
+        "age": " 2- 7 years"
+      },
+      {
+        "id": 10,
+        "name": "Peppa Pig",
+        "image": "http://prod-upp-image-read.ft.com/7a86dcd4-3546-11e9-9be1-7dc6e2dfa65e",
+        "video": "https://www.youtube.com/c/peppapig",
+        "description": "Long-running children's series following the adventures, mishaps and friendships of Peppa Pig, her brother George, their parents, and the other animal families who make up their town. ",
+        "age": " 2-8 Years"
+      },
+      {
+        "id": 11,
+        "name": "Paw Patrol",
+        "image": "https://assets.nickjr.com/uri/mgid:arc:imageassetref:shared.nickjr.us:ce2996e1-1425-4a1a-b100-d66fc6be9e86?quality=0.7",
+        "video": "https://www.youtube.com/user/OfficialPawPatrol",
+        "description": "Six brave puppies, captained by a tech-savvy ten-year-old boy, Ryder, work together to accomplish high-stakes rescue missions to safeguard the residents of the Adventure Bay community.",
+        "age": "2-10 Years"
+      },
+      {
+        "id": 12,
+        "name": " Word World",
+        "image": " https://themumeducates.com/wp-content/uploads/2018/02/wordworld-1024x576.jpg",
+        "video": "https://www.youtube.com/watch?v=mxXgSFPyaQo&list=PLgXbIioh5mVr2kwITCqQJC_MmuTTwSrVG",
+        "description": " The show focuses on building words and enhance reading skills in kids. In the show, the whole place is a build-up of words where animals interact with each other to build different words in order to solve various riddles.",
+        "age": " 3 -12 Years"
+      },
+      {
+        "id": 13,
+        "name": "Young Marco Polo",
+        "image": " https://www.zdf-studios.com/sites/default/files/styles/dd_catalog_hero_top/public/media/catalog/posterframe/41817-youngmarcopoloos_0.jpg?itok=Umwsa8qn",
+        "video": " https://www.youtube.com/watch?v=MHcL13zB1kQ",
+        "description": "Knowing how it feels to miss a parent, Marco wants to help Shi La find her long-lost mother, and even Luigi overcomes his travel-weariness to help his friend.",
+        "age": " 5- 15 years"
+      },
+      {
+        "id": 14,
+        "name": " Sid the Science Kid",
+        "image": " https://themumeducates.com/wp-content/uploads/2018/02/250px-Sid-the-science-kid-logo.jpg",
+        "video": "https://www.youtube.com/watch?v=TWCoBzaFVws&list=PLLhOnau-tupToESj1nlDZppLqpKEk5kSo",
+        "description": " Sid in one curious kid. As he goes to preschool each day, he and his friends find many things in the world around them wondrous and ask questions.",
+        "age": " 5- 15 Years"
+      },
+      {
+        "id": 15,
+        "name": " Cyber Chase ",
+        "image": " https://flxt.tmsimg.com/assets/p186055_b_v13_ac.jpg",
+        "video": "https://www.youtube.com/watch?v=9JRDPWjGIzY&list=PLLhOnau-tupTFvctEmhIHa3ftTArupPPi",
+        "description": "Cyber Chase is an award-winning, research-oriented adventure series that helps children develop math and problem-solving skills.",
+        "age": " 4- 12 Years"
+      },
+      {
+        "id": 16,
+        "name": " Super-Why",
+        "image": " https://themumeducates.com/wp-content/uploads/2018/02/Super-Why-LARGE.jpg",
+        "video": " https://www.youtube.com/channel/UCbxK6jzYms1iMkU9Kwvl0sA",
+        "description": "This show includes characters that teach kids alphabets and reading skills. On top of that, the wonderful things about this program are, it also enhances their vocabulary",
+        "age": "3- 12 Years"
+      }
+    ]
+  }
+  
