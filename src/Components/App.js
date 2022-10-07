@@ -7,7 +7,7 @@ import Footer from "./Footer";
 import Blog from "./Blog"
 import About from "./About";
 function App() {
-  const API_url = "http://localhost:3000/cartoons";
+  const API_url = "https://my-json-server.typicode.com/Francis-Muriithi/cartoonsAPI/cartoons";
   const [cartoons, setCartoons] = useState([]);
 
   useEffect(() => {
