@@ -9,6 +9,7 @@ body {
     font-size: 40px;
 }
 .nav{
+    position:static;
     background-color: rgb(60, 16, 142);
     color: whitesmoke;
     display:flex;
