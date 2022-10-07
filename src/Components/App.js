@@ -1,11 +1,11 @@
 import "./App.css";
 import { BrowserRouter as Router, Route, Switch} from "react-router-dom";
 import React, { useEffect, useState } from "react";
-import CartoonCard from "./Components/CartoonCard";
-import NavBar from "./Components/NavBar";
-import Footer from "./Components/Footer";
-import Blog from "./Components/Blog"
-import About from "./Components/About";
+import CartoonCard from "./CartoonCard";
+import NavBar from "./NavBar";
+import Footer from "./Footer";
+import Blog from "./Blog"
+import About from "./About";
 function App() {
   const API_url = "http://localhost:3000/cartoons";
   const [cartoons, setCartoons] = useState([]);

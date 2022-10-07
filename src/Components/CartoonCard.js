@@ -1,5 +1,5 @@
 import React from "react";
-import "../CartoonCard.css";
+import "./CartoonCard.css";
 
 function CartoonCard(props) {
   console.log(props.name);
