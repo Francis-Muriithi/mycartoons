@@ -1,0 +1,56 @@
+* {
+  
+}
+
+.cartoon_card {
+  padding-left: 2rem;
+  background-color: rgb(49, 48, 88);
+  width: 18rem;
+  margin-right: 1.5rem;
+  margin-bottom: 1.5rem;
+  border: 1px solid rgb(196, 71, 71);
+  padding: 0.3rem;
+  border-radius: 0.8rem;
+  font-weight: 1000;
+  align-content: center;
+}
+.poster img {
+  width: 17rem;
+  border-radius: 0.5rem;
+}
+.poster {
+  position: relative;
+}
+.image_img{
+  display:block;
+  width: 100%;
+}
+.poster_overlay{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.6);
+  color: rgb(176, 213, 230);
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+}
+
+.poster_overlay:hover{
+  opacity: 1;
+}
+.description{
+  background-color: rgb(69, 78, 78);
+  font-style: italic;
+  opacity: .8;
+}
+
+.title{
+  font-size: 1.5em;
+  color:rgb(145, 197, 48);
+  text-align: center;
+}
